@@ -1,0 +1,7 @@
+"3 задача"
+a = int(input("Введи число:"))
+b = int(input("Введи число:"))
+if a<b:
+   print(a)
+elif b<a:
+   print(b)
