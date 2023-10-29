@@ -1,0 +1,8 @@
+"2"
+a = int(input("Введи число:"))
+b = int(input("Введи число:"))
+c= int(input("Введи число:"))
+if a<0 and b<0 and c<0:
+    print("TRUE")
+else:
+    print("FALSE")
